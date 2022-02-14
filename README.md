@@ -1,6 +1,5 @@
 # ORF-Annotation
-An annotation pipeline to identify disruptive variation in 5'UTR regions.
-An annotation pipeline to identify disruptive genetic variation in human 5'UTR regions.
+An annotation pipeline to identify disruptive variation in 5'UTR regions of the human genome.
 
 # Background
 This builds upon work by McGillivray et al. to programmatically identify all predicted upstream open reading frames in the human genome: 
