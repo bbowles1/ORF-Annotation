@@ -17,5 +17,5 @@ To begin this work, the user will need to edit paths in Catalog_Setup_Config.py.
 
 The catalog setup config will create the following files:
  - A .tsv file containing McGillivray et al annotations and a .bed file for the same regions.
- - A range_df.tsv file, which contains Ensembl 5'UTR exon regions and their associated FASTA sequence.:x
+ - A range_df.tsv file, which contains Ensembl 5'UTR exon regions and their associated FASTA sequence.
 
