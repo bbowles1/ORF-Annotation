@@ -1,0 +1,11 @@
+*.gz
+*.pkl
+myconfig.txt
+TEST_SETUP.py
+complete_uORF_predictions_hg19.tsv
+GRCh37_latest_genomic.fna*
+Homo_sapiens.GRCh37.87.chr.gff3
+TITER_CDS.tsv
+uorf_catalog.tsv*
+uorf.bed*
+testing/
