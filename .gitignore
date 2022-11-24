@@ -9,3 +9,4 @@ TITER_CDS.tsv
 uorf_catalog.tsv*
 uorf.bed*
 testing/
+*.idea
