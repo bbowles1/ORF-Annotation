@@ -24,7 +24,7 @@ Running all ORFA scripts requires several input files:
 # Building the Catalog
 Users will need to run a first-time setup to generate several additional reference files.
 1. To begin this work, the user will need to download the above files and provide their absolute paths in the "config.txt" file.
-2. After updating config.txt, the user will need to run "bin/Catalog_Setup_Config.py." This script will create the following files:
+2. After updating config.txt, the user will need to run `bin/Catalog_Setup_Config.py`. This will create the following files:
  - uorf_catalog.tsv: Contains a filtered set of McGillivray et al. annotations and their start locations within the gneome.
  - uorf_catalog.bed: A .bed file for the same regions as above.
  - Range_df.pkl: A data structure mapping Ensembl 5'UTR exon regions to their associated FASTA sequence.
